@@ -2,6 +2,7 @@
 
 #-ini(update-lautre76.world,1)-#
 
-#?os_linux_shortname==CLDX#
+#?os_linux_shortname==Desktop-X#
+games-util/steam-launcher
 www-client/firefox-bin
 #os_linux_shortname#
