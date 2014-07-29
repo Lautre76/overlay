@@ -1,0 +1,7 @@
+# Calculate format=world name=world ini(update-lautre76.world)<1
+
+#-ini(lautre76.world,1)-#
+
+#?os_linux_shortname==CLDX#
+www-client/firefox-bin
+#os_linux_shortname#
