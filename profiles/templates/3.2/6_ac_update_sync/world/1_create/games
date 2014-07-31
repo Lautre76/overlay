@@ -1,5 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_shortname, Desktop-X)!=#
+#?in(os_linux_pkglist, Desktop-X)!=#
 games-util/steam-launcher
 #in#
