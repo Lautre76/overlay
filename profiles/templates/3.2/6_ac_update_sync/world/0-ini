@@ -1,0 +1,4 @@
+# Calculate format=samba path=/etc/calculate name=ini.env cl_update_world!=update||ini(update.world)==
+
+[update-lautre76]
+world = 2
