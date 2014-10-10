@@ -1,6 +1,6 @@
-# Calculate format=world name=world ini(update-lautre76.world)<2
+# Calculate format=world name=world ini(overlay-lautre76.world)<1
 
-#-ini(update-lautre76.world,2)-#
+#-ini(overlay-lautre76.world,1)-#
 
 #?os_linux_pkglist==Desktop-X#
 games-util/steam-launcher

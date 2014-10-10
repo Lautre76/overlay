@@ -1,3 +1,0 @@
-# Calculate append=skip cl_update_world==rebuild name=world
-
-# world is removed and filled in the core packages from the calculate overlay
