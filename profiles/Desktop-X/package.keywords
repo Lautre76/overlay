@@ -1,13 +1,2 @@
-~games-util/steam-launcher-1.0.0.48 amd64 x86
+~games-util/steam-launcher-1.0.0.49 amd64 x86
 ~www-client/firefox-bin-33.0 amd64 x86
-
-~sys-apps/calculate-client-3.2.3 amd64 x86
-~sys-apps/calculate-console-3.2.3 amd64 x86
-~sys-apps/calculate-console-gui-3.2.3 amd64 x86
-~sys-apps/calculate-core-3.2.3 amd64 x86
-~sys-apps/calculate-desktop-3.2.3 amd64 x86
-~sys-apps/calculate-i18n-3.2.3 amd64 x86
-~sys-apps/calculate-install-3.2.3 amd64 x86
-~sys-apps/calculate-lib-3.2.3 amd64 x86
-~sys-apps/calculate-update-3.2.3 amd64 x86
-~sys-apps/calculate-utils-3.2.3 amd64 x86
