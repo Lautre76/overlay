@@ -2,4 +2,5 @@
 
 #?in(os_linux_pkglist, Desktop-X)!=#
 games-util/steam-launcher
+games-misc/xpenguins
 #in#
