@@ -1,4 +1,4 @@
-# Calculate format=diff pkg(sys-kernel/calculate-sources)<3.15 pkg(sys-devel/gcc)<4.9
+# Calculate format=diff merge(sys-kernel/calculate-sources)<3.15 pkg(sys-devel/gcc)<4.9
 This patch will expand the number of microarchitectures to include new
 processors including: AMD K10-family, AMD Family 10h (Barcelona), AMD Family
 14h (Bobcat), AMD Family 15h (Bulldozer), AMD Family 15h (Piledriver), AMD
