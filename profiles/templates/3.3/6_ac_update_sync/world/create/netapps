@@ -2,5 +2,5 @@
 
 #?in(os_linux_pkglist, Desktop-X)!=#
 net-misc/modem-manager-gui
-www-client/firefox-bin
+www-client/firefox
 #in#
