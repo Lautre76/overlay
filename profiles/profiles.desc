@@ -8,6 +8,7 @@
 
 
 # AMD64 Profiles
+amd64		Desktop-K/amd64					stable
 amd64		Desktop-M/amd64					stable
 amd64		Desktop-X/amd64					stable
 

@@ -1,0 +1,5 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, Desktop-K)!=#
+kde-plasma/plasma-meta
+#in#
