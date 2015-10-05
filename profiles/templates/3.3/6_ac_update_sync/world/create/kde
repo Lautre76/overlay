@@ -1,5 +1,14 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, Desktop-K)!=#
+kde-apps/konsole
+
+kde-apps/kdeadmin-meta
+kde-apps/kdebase-runtime-meta
+kde-apps/kdemultimedia-meta
+kde-apps/kdetoys-meta
+
 kde-plasma/plasma-meta
+
+!x11-wm/openbox
 #in#
