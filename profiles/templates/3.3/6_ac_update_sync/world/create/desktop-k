@@ -1,6 +1,8 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, Desktop-K)!=#
+app-editors/vim
+www-client/chromium
 !x11-terms/rxvt-unicode
 !x11-wm/openbox
 #in#
