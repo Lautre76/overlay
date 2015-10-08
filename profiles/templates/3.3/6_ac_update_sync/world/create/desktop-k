@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, Desktop-K)!=#
 app-editors/vim
 media-gfx/calculate-wallpapers
+x11-themes/calculate-icon-theme
 x11-themes/calculate-xcursors
 www-client/chromium
 !x11-terms/rxvt-unicode
