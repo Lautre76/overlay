@@ -2,6 +2,6 @@
 
 #-ini(overlay-lautre76.world,4)-#
 
-#?os_linux_pkglist==Desktop-X#
+#?in(os_linux_pkglist, Desktop-X)!=#
 app-portage/cpuinfo2cpuflags
-#os_linux_pkglist#
+#in#

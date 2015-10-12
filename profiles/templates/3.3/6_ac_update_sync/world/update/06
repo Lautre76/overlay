@@ -2,6 +2,7 @@
 
 #-ini(overlay-lautre76.world,6)-#
 
-#?os_linux_pkglist==Desktop-K#
+
+#?in(os_linux_pkglist, Desktop-K)!=#
 !x11-misc/lightdm
-#os_linux_pkglist#
+#in#

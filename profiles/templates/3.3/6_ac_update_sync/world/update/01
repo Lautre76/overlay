@@ -2,7 +2,7 @@
 
 #-ini(overlay-lautre76.world,1)-#
 
-#?os_linux_pkglist==Desktop-X#
+#?in(os_linux_pkglist, Desktop-X)!=#
 games-util/steam-launcher
 www-client/firefox-bin
-#os_linux_pkglist#
+#in#
