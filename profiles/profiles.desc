@@ -9,10 +9,13 @@
 
 # AMD64 Profiles
 amd64		Desktop-K/amd64					stable
+amd64		Desktop-L/amd64					stable
 amd64		Desktop-M/amd64					stable
 amd64		Desktop-X/amd64					stable
 
 # x86 Profiles
+x86		Desktop-K/x86					stable
+x86		Desktop-L/x86					stable
 x86		Desktop-M/x86					stable
 x86		Desktop-X/x86					stable
 
